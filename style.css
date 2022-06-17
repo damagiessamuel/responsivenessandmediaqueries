@@ -87,7 +87,7 @@ span{
       text-decoration: none;
       font-weight: 600;
   }
-  @media (max-width: 900px) {
+  @media (max-width: 375px) {
     body{
         background-image: url(bg-intro-mobile.png);
     }  
