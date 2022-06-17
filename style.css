@@ -6,7 +6,7 @@
     cursor: pointer;
 }
 body{
-    background-image: url(assets/bg-intro-desktop.png);
+    background-image: url(bg-intro-desktop.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover ;
@@ -89,7 +89,7 @@ span{
   }
   @media (max-width: 900px) {
     body{
-        background-image: url(assets/bg-intro-mobile.png);
+        background-image: url(bg-intro-mobile.png);
     }  
     .container{
           flex-direction: column;
